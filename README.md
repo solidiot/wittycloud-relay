@@ -1,4 +1,5 @@
-![](https://github.com/DmitriyPro/wittycloud-relay/blob/master/solidiot%20wittycloud-relay%D0%B5%20photo/solidiot%20wittycloud-relay.png)
+# SolidioT wittycloud-relay
+
 1. [Монтаж  модуля реле в к соединительную коробку RJ11](#chapter-0)
 2. [Подключение модуля реле к разъему RJ11](#chapter-1)
 3. [Проблема с управлением реле от 3.3В и возможное решение](#chapter-2):
